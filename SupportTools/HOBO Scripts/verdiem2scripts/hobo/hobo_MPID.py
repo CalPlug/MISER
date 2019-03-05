@@ -2,6 +2,7 @@
 #       Simple Illustration     #
 #################################
 # Read the contents of an Onset HOBO Plug Load and Ligt/Motion monitor and parse into Verdiem 2 format then upload to a mySQL table
+# The OnSET HOBO logger must be read in (Uing HOBOWare) then the data exported as a .CSV to use with this script.
 
 #################################
 #       Usage Illustration      #

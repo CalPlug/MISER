@@ -2,7 +2,7 @@
 # Reads in DB, and for all days with known starts and ends, it will push a record to the database with explicit state values
 # California Plug Load Research Center, 2018
 # by Zihan "Bronco" Chen
-
+# The OnSET HOBO logger must be read in (Uing HOBOWare) then the data exported as a .CSV to use with this script.
 
 # Library setup:
 from collections import defaultdict

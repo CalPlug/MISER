@@ -2,7 +2,7 @@
 #       Simple Illustration     #
 #################################
 # Read the PMUI systemEvents.csv data file (stored locally) and push up to MySQL table in Verdiem 2  format
-
+# For use with the summarized database output of the CalPlug PMUI software
 #################################
 #       Usage Illustration      #
 #################################

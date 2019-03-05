@@ -3,6 +3,7 @@
 #################################
 # Read the PMUI systemEvents.db or systemEvents.json data file (stored locally) and push up to MySQL table in Verdiem 2  format
 # this program takes PMUI JSON data and converts it into Verdiem 2 data for analysis in time blocks on a per day, per state basis.
+# For use with the local database of the CalPlug PMUI software.
 
 #################################
 #       Usage Illustration      #

@@ -2,7 +2,7 @@
 #       Simple Illustration     #
 #################################
 # Read the contents of a key logger devices which records time of pwr key was pressed and parse into Verdiem 2 format then upload to a mySQL table
-
+#For use with a KEElog USB Keylogger
 #################################
 #       Usage Illustration      #
 #################################
