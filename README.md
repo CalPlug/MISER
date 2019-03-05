@@ -1,4 +1,4 @@
-![CalPlug](http://www.calit2.uci.edu/uploads/Media/Image/calpluglogo.jpg)
+![CalPlug] (http://www.calit2.uci.edu/uploads/Media/Image/calpluglogo.jpg)
 # MISER
 
 Marginal Intervention Savings of Energy Reporter (MISER): A tool for calculating marginal energy savings from intervention strategies with device power management
