@@ -976,44 +976,14 @@ if __name__=="__main__":
             print()
             print()
             print()
-            print(",,===================================================")
-            print(",,Subject Run Summary Analysis:")
-            sys.stdout.write(",,Delta (Idle) Summary across all days: ")
+            print(",,============================================================================================================")
+            print(",,Subject Run Summary Analysis:")                
+            sys.stdout.write(",,Delta (Idle) Summary across all days for Subject: ")
             sys.stdout.write(str(subjecttallylist_unique_list[0]))
-            sys.stdout.write(',')
-            sys.stdout.write("All Days")
             sys.stdout.write(',')
             sys.stdout.write("Idle Delta Summary:")
             sys.stdout.write(',')
             sys.stdout.write(str(finaldeltalist))
-            print()
-            sys.stdout.write(",,Total days in the Run:")
-            sys.stdout.write(',')
-            finaldeltalisttemp=finaldeltalist
-            dayswithidle = len(finaldeltalisttemp)
-            sys.stdout.write(str(resultsreviewcount))
-            print()
-            sys.stdout.write(",,Total days in period with Idle periods in Run:")
-            sys.stdout.write(',')
-            finaldeltalisttemp=finaldeltalist
-            dayswithidle = len(finaldeltalisttemp)
-            sys.stdout.write(str(dayswithidle))
-            sys.stdout.write(',or,') #multiple metrics should result in the same value, both displayed for debugging sake
-            sys.stdout.write(str(len(directidleaverage)))
-            print()
-            sys.stdout.write(",,Total number of Idle periods in Run:")
-            sys.stdout.write(',')
-            totalidleperiods = recursive_len(finaldeltalisttemp)
-            sys.stdout.write(str(totalidleperiods))
-            print()
-            sys.stdout.write(",,Idle Periods per day for days with Idle (AVG):")
-            sys.stdout.write(',')
-            sys.stdout.write('{0:.2f}'.format(safe_div(totalidleperiods,dayswithidle))) #use safediv for days without idle
-            print()
-            sys.stdout.write(",,Idle Periods per days with Idle for all days (AVG):")
-            sys.stdout.write(',')
-            sys.stdout.write('{0:.2f}'.format(safe_div(totalidleperiods,resultsreviewcount)))
-                        
             print()
             sys.stdout.write(",,Idle time average across days with idles present:,")
             perdayidleaverageonly = safe_div((sum(directonlyidleaverage)),(len(directonlyidleaverage)))
@@ -1031,10 +1001,25 @@ if __name__=="__main__":
             idleaveragealldaysthree = safe_div(sum((directidlevsonaverage)),(len(directidlevsonaverage)))
             sys.stdout.write('{:.2%}'.format(idleaveragealldaysthree))
             print() #newline
-            print("Run Parameters: ")
-            sys.stdout.write("Run with Day of Week Analysis Setting (All-Days[0], Weekdays[1], Weekends[2]): ")
-            print(valuek)
-            print(",,===================================================")
+            print("Run Parameters: ") 
+            sys.stdout.write("Run with Day of Week Analysis Setting (All Days, Weekdays, Weekends): ") 
+            print(valuek)  
+            print () #print newline prior to day summary info
+            sys.stdout.write("Total Query Days / Study Days / Days With ON State / Days with Idle,")
+            sys.stdout.write(str(len(datetallylist))) #all mentions of dates
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(datetallylist_unique_list))) #List of study dates with redundancies removed
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(directidleaverage))) #Days where idle exists #all days
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(sumallidleperiodsaverage))) #Days where idle exists #all days
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(directonlyidleaverage))) #Days where idle exists
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(directidlevsonaverage))) #Days where idle exists #all days
+            print() #end summary line
+            print(",,============================================================================================================")
+        
 
 
             #Run Specific Analyses with Specified Parameters
