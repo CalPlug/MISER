@@ -54,11 +54,10 @@ def query_updatevalue(dictionaryname, key_to_find, definition):  #used to update
 
 if __name__=="__main__":
     #Open Database connection
-    db = mysql.connector.connect(host="XXXXXX.calit2.uci.edu",    # host
-                         user="XXXXXXX",         # username
-                         passwd="XXXXXXXX",  # password
-                         db="XXXXXXXXX")        # DBName
-
+    db = mysql.connector.connect(host="cplamp.calit2.uci.edu",    # host
+                         user="calplug",         # username
+                         passwd="123456!",  # password
+                         db="VerdiemStudy")        # DBName
     cursor = db.cursor() # Cursor object for database query
 
     #Queries against the resultssummary DB
