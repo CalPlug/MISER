@@ -68,7 +68,11 @@ dayanalysis = -1  #Default value for this counter - set the scope of this outsid
 #Joy's R4 Monitoring study values, cross-confirmed
 #subjectlist = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118]
 #ComputerswithoutPM = [1, 2, 4, 5, 6 ,7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 36, 37, 38, 39, 40, 41, 42, 44, 45, 47, 49, 50, 51, 53, 54, 55, 56, 57, 58, 59, 60, 62, 63, 64, 65, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 80, 81, 82, 84, 85, 87, 88, 89, 91, 92, 93, 94, 95, 96, 98, 99, 100, 102, 103, 104, 105, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118]
+<<<<<<< HEAD
 subjectlist = [3, 10, 21, 29, 30, 35, 43, 46, 48, 52, 61, 83, 86, 90, 101, 106]
+=======
+#ComputerswithPM = [3, 10, 21, 29, 30, 35, 43, 46, 48, 52, 61, 83, 86, 90, 101, 106]
+>>>>>>> ed5816d15cf3348766cd450893aaefb286de2de2
 #ComputerPMValues= [25,60, 60, 10, 30, 180, 10, 240, 60, 10, 30, 10, 120, 180, 30, 30]  
 
 
@@ -984,44 +988,14 @@ if __name__=="__main__":
             print()
             print()
             print()
-            print(",,===================================================")
-            print(",,Subject Run Summary Analysis:")
-            sys.stdout.write(",,Delta (Idle) Summary across all days: ")
+            print(",,============================================================================================================")
+            print(",,Subject Run Summary Analysis:")                
+            sys.stdout.write(",,Delta (Idle) Summary across all days for Subject: ")
             sys.stdout.write(str(subjecttallylist_unique_list[0]))
-            sys.stdout.write(',')
-            sys.stdout.write("All Days")
             sys.stdout.write(',')
             sys.stdout.write("Idle Delta Summary:")
             sys.stdout.write(',')
             sys.stdout.write(str(finaldeltalist))
-            print()
-            sys.stdout.write(",,Total days in the Run:")
-            sys.stdout.write(',')
-            finaldeltalisttemp=finaldeltalist
-            dayswithidle = len(finaldeltalisttemp)
-            sys.stdout.write(str(resultsreviewcount))
-            print()
-            sys.stdout.write(",,Total days in period with Idle periods in Run:")
-            sys.stdout.write(',')
-            finaldeltalisttemp=finaldeltalist
-            dayswithidle = len(finaldeltalisttemp)
-            sys.stdout.write(str(dayswithidle))
-            sys.stdout.write(',or,') #multiple metrics should result in the same value, both displayed for debugging sake
-            sys.stdout.write(str(len(directidleaverage)))
-            print()
-            sys.stdout.write(",,Total number of Idle periods in Run:")
-            sys.stdout.write(',')
-            totalidleperiods = recursive_len(finaldeltalisttemp)
-            sys.stdout.write(str(totalidleperiods))
-            print()
-            sys.stdout.write(",,Idle Periods per day for days with Idle (AVG):")
-            sys.stdout.write(',')
-            sys.stdout.write('{0:.2f}'.format(safe_div(totalidleperiods,dayswithidle))) #use safediv for days without idle
-            print()
-            sys.stdout.write(",,Idle Periods per days with Idle for all days (AVG):")
-            sys.stdout.write(',')
-            sys.stdout.write('{0:.2f}'.format(safe_div(totalidleperiods,resultsreviewcount)))
-                        
             print()
             sys.stdout.write(",,Idle time average across days with idles present:,")
             perdayidleaverageonly = safe_div((sum(directonlyidleaverage)),(len(directonlyidleaverage)))
@@ -1039,10 +1013,25 @@ if __name__=="__main__":
             idleaveragealldaysthree = safe_div(sum((directidlevsonaverage)),(len(directidlevsonaverage)))
             sys.stdout.write('{:.2%}'.format(idleaveragealldaysthree))
             print() #newline
-            print("Run Parameters: ")
-            sys.stdout.write("Run with Day of Week Analysis Setting (All-Days[0], Weekdays[1], Weekends[2]): ")
-            print(valuek)
-            print(",,===================================================")
+            print("Run Parameters: ") 
+            sys.stdout.write("Run with Day of Week Analysis Setting (All Days, Weekdays, Weekends): ") 
+            print(valuek)  
+            print () #print newline prior to day summary info
+            sys.stdout.write("Total Query Days / Study Days / Days With ON State / Days with Idle,")
+            sys.stdout.write(str(len(datetallylist))) #all mentions of dates
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(datetallylist_unique_list))) #List of study dates with redundancies removed
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(directidleaverage))) #Days where idle exists #all days
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(sumallidleperiodsaverage))) #Days where idle exists #all days
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(directonlyidleaverage))) #Days where idle exists
+            sys.stdout.write(",")
+            sys.stdout.write(str(len(directidlevsonaverage))) #Days where idle exists #all days
+            print() #end summary line
+            print(",,============================================================================================================")
+        
 
 
             #Run Specific Analyses with Specified Parameters
