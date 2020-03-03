@@ -1,0 +1,342 @@
+{"timestamp":1553533202714,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15535332027149991n","_id":"08YPs0bo4jpUEF5p"}
+{"timestamp":1539033215106,"page":"GUI","eventType":"Opening GUI","info":"double-click","userId":"9991n","receivedFlag":true,"hashKey":"15390332151069991n","_id":"0Hfq7koFqxn38qhh"}
+{"timestamp":1557202579009,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15572025790099991n","_id":"0KcQREEYl83Im8Ss"}
+{"timestamp":1548703062745,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15487030627459991n","_id":"0gQw4mEyTKHp2cKD"}
+{"timestamp":1539649093429,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15396490934299991n","_id":"1DOxHXVpywdoBvrP"}
+{"timestamp":1544667793566,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15446677935669991n","_id":"1OFWzKzisAwcNHaf"}
+{"timestamp":1565024400019,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15650244000199991n","_id":"1edHHfzeWrtkE72O"}
+{"timestamp":1566238545072,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15662385450729991n","_id":"26oIQ8nltys1Lnnf"}
+{"timestamp":1571072449986,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15710724499869991n","_id":"2cY8rS2neFVu7Cgg"}
+{"timestamp":1554138005022,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15541380050229991n","_id":"2igQcDgYD2Ba94yf"}
+{"timestamp":1539033287304,"page":"GUI","eventType":"Patterns Of State","info":"viewing this hour","userId":"9991n","receivedFlag":true,"hashKey":"15390332873049991n","_id":"2pDRZrhuRrybbjFs"}
+{"timestamp":1559237791277,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15592377912779991n","_id":"2rTzUysXEjNWvLrj"}
+{"timestamp":1541637436030,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15416374360309991n","_id":"36TBDoZBnw0vDCIF"}
+{"timestamp":1551722405844,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15517224058449991n","_id":"3HulWQkAsJqT1aWH"}
+{"timestamp":1542650405710,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15426504057109991n","_id":"43Nd6BOnmWjBr4Vq"}
+{"timestamp":1540924221392,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15409242213929991n","_id":"44l3cdu8LYhrKIjr"}
+{"timestamp":1552472739470,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15524727394709991n","_id":"47C4x0KXg3xat0OJ"}
+{"timestamp":1560186000367,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15601860003679991n","_id":"49WtrxuItnm3lnOr"}
+{"timestamp":1567727419708,"page":"GUI","eventType":"Patterns Of State","info":"dropdown month","userId":"9991n","receivedFlag":false,"hashKey":"15677274197089991n","_id":"4BKSUVkwlXOkQJzg"}
+{"timestamp":1562605207473,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15626052074739991n","_id":"4icyd94djausfvpS"}
+{"timestamp":1543258018449,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15432580184499991n","_id":"4lZQOykdzDN5lvcO"}
+{"timestamp":1566373041361,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15663730413619991n","_id":"5KyIFBu67lVtoV74"}
+{"timestamp":1546884007743,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15468840077439991n","_id":"5TvJzlfrkL3DOvno"}
+{"timestamp":1575919409684,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15759194096849991n","_id":"61A7E1HD73RRcxgD"}
+{"timestamp":1570780283524,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,services,winlogon,lsass,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,RtkAudioService64,RAVBg64,spoolsv,AERTSr64,NovabenchService,mDNSResponder,IpOverUsbSvc,armsvc,dasHost,MsMpEng,NisSrv,GoogleCrashHandler,sihost,taskhost","userId":"9991n","receivedFlag":false,"hashKey":"15707802835249991n","_id":"67JCad5F5nuA0cF8"}
+{"timestamp":1564696457007,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15646964570079991n","_id":"6HpXkVLnIBOO0SuU"}
+{"timestamp":1572384443339,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15723844433399991n","_id":"6Ht0jZOFx1PHoSRP"}
+{"timestamp":1550512807076,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15505128070769991n","_id":"6PyK7UQx4BsBZA4o"}
+{"timestamp":1540249093459,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15402490934599991n","_id":"6SgbhBSVx09t23DS"}
+{"timestamp":1576646425590,"page":"Win","eventType":"Sleep Blockers","info":",rundll32,wermgr,g2mupdate,tasklist,backgroundTaskHost,powercfg","userId":"9991n","receivedFlag":false,"hashKey":"15766464255909991n","_id":"6YdTrHG8NyqZg9eX"}
+{"timestamp":1543957554304,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15439575543049991n","_id":"72zfigox7mgC7Tm9"}
+{"timestamp":1571213940387,"page":"Win","eventType":"Sleep Blockers","info":"w64,Calculator,smartscreen,acrobat_sl,g2mupdate,GoogleUpdate,wermgr,tasklist,backgroundTaskHost,powercfg","userId":"9991n","receivedFlag":false,"hashKey":"15712139403879991n","_id":"7sH4b99lKv7v009E"}
+{"timestamp":1576274307385,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15762743073859991n","_id":"7yd4f4YktDGT3yFn"}
+{"timestamp":1541637434903,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15416374349039991n","_id":"8HjYYiILgWiTgUwK"}
+{"timestamp":1541637253001,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15416372530019991n","_id":"8RrpcB7Dd7cdymlr"}
+{"timestamp":1565629199896,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15656291998969991n","_id":"8Tkb9DPDNKoCSl1X"}
+{"timestamp":1573672692090,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15736726920909991n","_id":"8qvpmwzf7e4LtubX"}
+{"timestamp":1541441633582,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15414416335829991n","_id":"90yJSNZfENF4PuCB"}
+{"timestamp":1559241214706,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15592412147069991n","_id":"98Kde2sK9xAVbhUA"}
+{"timestamp":1566840420146,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15668404201469991n","_id":"98SEw9sZdhNOLn6j"}
+{"timestamp":1563210008614,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15632100086149991n","_id":"9KEXBqr2Gtw38jye"}
+{"timestamp":1561395603409,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15613956034099991n","_id":"9k2EwZuIqyGIr0EW"}
+{"timestamp":1544464802876,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15444648028769991n","_id":"9ojDqFo5wBvBbKHN"}
+{"timestamp":1559241832056,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15592418320569991n","_id":"9uoKUPXACPYhm1CU"}
+{"timestamp":1577913371150,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15779133711509991n","_id":"AEQbyyivnDmNfLB4"}
+{"timestamp":1543354796180,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15433547961809991n","_id":"AHQRNwlpcwL2vUwv"}
+{"timestamp":1566840505191,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15668405051919991n","_id":"AJ6NYuJn40A7J31E"}
+{"timestamp":1542045600882,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15420456008829991n","_id":"AQ4v8kDL1GBKQfNX"}
+{"timestamp":1576641150619,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15766411506199991n","_id":"AfAv93MYShy7F8Rk"}
+{"timestamp":1537994659003,"page":"GUI","eventType":"Patterns Of State","info":"viewing first day","userId":"9991n","receivedFlag":true,"hashKey":"15379946590039991n","_id":"AgjVYSB8VRjbnvvY"}
+{"timestamp":1571213940385,"page":"Win","eventType":"Sleep Blockers","info":"resentationFontCache,igfxEM,RuntimeBroker,SearchInr,dllhost,ShellExperienceHost,SkypeApp,ApplicationFrameHost,SkypeBackgroundHost,YourPhone,MicrosoftEdge,browser_broker,MicrosoftEdgeCP,MicrosoftEdgeSH,GoogleCrashHandler,SearchUI,SecurityHealthSystray","userId":"9991n","receivedFlag":false,"hashKey":"15712139403859991n","_id":"Ap09QYf5QJMLsgHJ"}
+{"timestamp":1557594963021,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15575949630219991n","_id":"BRpfzOU1TQcRUrP9"}
+{"timestamp":1554138006507,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15541380065079991n","_id":"BS6cDLWwuVqqtEXP"}
+{"timestamp":1542222158234,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15422221582349991n","_id":"BXPz1YECxMWk5ULR"}
+{"timestamp":1555952407637,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15559524076379991n","_id":"CKDV3EqhfftMfuyb"}
+{"timestamp":1569877942225,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15698779422259991n","_id":"CLj1MjWLooaOf1IP"}
+{"timestamp":1564419606750,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15644196067509991n","_id":"CW6vIaw7iYj2dabG"}
+{"timestamp":1563825120674,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15638251206749991n","_id":"CXsKzve5ArPU4CVL"}
+{"timestamp":1541451169889,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15414511698899991n","_id":"CdgnVJeNPADfHLuo"}
+{"timestamp":1560810133568,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15608101335689991n","_id":"D7QWKFlGoNEp4q4R"}
+{"timestamp":1553533204377,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15535332043779991n","_id":"DMLplzf5Gfrke96y"}
+{"timestamp":1557854980520,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15578549805209991n","_id":"DPsXcYq7Q1d0ZBpf"}
+{"timestamp":1539033228553,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15390332285539991n","_id":"DT1jIe7pypj4VXIs"}
+{"timestamp":1571213940386,"page":"Win","eventType":"Sleep Blockers","info":",SecurityHealthService,RtkNGUI64,OneDrive,AnyDVDtray,googledrivesync,PfuSsMon,GoogleCrashHandler64,pmui,SnippingTool,VCDDaemon,SsWiaChecker,acrotray,ADvdDiscHlp64,conhost,WDAppManager,chrome,FNPLicensingService,WmiPrvSE,SgrmBroker,WDSyncService,splwo","userId":"9991n","receivedFlag":false,"hashKey":"15712139403869991n","_id":"E2qmWu4jLp54rFpY"}
+{"timestamp":1548698407245,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15486984072459991n","_id":"EAlMUW4hIeBokVpI"}
+{"timestamp":1545674407250,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15456744072509991n","_id":"EP08wfKX0BsWg4ET"}
+{"timestamp":1578938401222,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15789384012229991n","_id":"EcaTOGxADML5XiI9"}
+{"timestamp":1559239701125,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15592397011259991n","_id":"EuiQMiU13voqCUoG"}
+{"timestamp":1557162005164,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15571620051649991n","_id":"F17m3eW0jx431cBU"}
+{"timestamp":1539163435338,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15391634353389991n","_id":"F1oEkwVSy6dp8WVQ"}
+{"timestamp":1580157001666,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15801570016669991n","_id":"F28Az1QWUV9uXkRc"}
+{"timestamp":1568813925897,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15688139258979991n","_id":"F5cwCoytwG75BMXk"}
+{"timestamp":1570139314682,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15701393146829991n","_id":"F6L87zGAx9PpLEkB"}
+{"timestamp":1574100014154,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15741000141549991n","_id":"FIC50A479HeaqL77"}
+{"timestamp":1539018004617,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15390180046179991n","_id":"FvMeKxeAzG5PAAUA"}
+{"timestamp":1581384581349,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15813845813499991n","_id":"GE8ytQEmPcjG1PtO"}
+{"timestamp":1567722033363,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677220333639991n","_id":"GRTFI8AZx7CXMvzr"}
+{"timestamp":1580762676740,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15807626767409991n","_id":"GYgf84L0XIVV5lNw"}
+{"timestamp":1539024824354,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15390248243549991n","_id":"GhSPl01tYSKHbjSm"}
+{"timestamp":1549908808982,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15499088089829991n","_id":"GhvA2p2USb1gqQQI"}
+{"timestamp":1559859807341,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15598598073419991n","_id":"GjKjNGpgmvclMxi2"}
+{"timestamp":1550512805147,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15505128051479991n","_id":"GoZf0BgjPO4oO3Zx"}
+{"timestamp":1574216524830,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15742165248309991n","_id":"GpBdaVCahTIovC4h"}
+{"timestamp":1579685453222,"page":"Win","eventType":"Sleep Blockers","info":"mon,explorer,PresentationFontCache,igfxEM,RuntimeBroker,SearchInr,ShellExperienceHost,ApplicationFrameHost,YourPhone,MicrosoftEdge,SkypeBackgroundHost,browser_broker,dllhost,MicrosoftEdgeCP,MicrosoftEdgeSH,SearchUI,SecurityHealthSystray,SecurityHealt","userId":"9991n","receivedFlag":false,"hashKey":"15796854532229991n","_id":"H3gsrVu3W2eunolm"}
+{"timestamp":1565629210932,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15656292109329991n","_id":"HAXX3ZEWCLDyrWvH"}
+{"timestamp":1582048754746,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15820487547469991n","_id":"HNzYoxn2rsKQUNEX"}
+{"timestamp":1571864717958,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15718647179589991n","_id":"HQugVrV5KgFWLedN"}
+{"timestamp":1544235143031,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15442351430319991n","_id":"HUDanP1IKRD3Yem6"}
+{"timestamp":1543257941936,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15432579419369991n","_id":"HxUwy7Fa212B6fn4"}
+{"timestamp":1550603861905,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15506038619059991n","_id":"Hy4knk9bYCjlLu4W"}
+{"timestamp":1572455751852,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15724557518529991n","_id":"I4jcvmzHWC3eRgE7"}
+{"timestamp":1573495200524,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15734952005249991n","_id":"IGfkVHUYTDtm12g5"}
+{"timestamp":1539034208334,"page":"GUI","eventType":"Patterns Of State","info":"dropdown hour","userId":"9991n","receivedFlag":true,"hashKey":"15390342083349991n","_id":"IKC6M0D4c4C3HJe2"}
+{"timestamp":1566374558076,"page":"Win","eventType":"Sleep Blockers","info":"ay,SecurityHealthService,RtkNGUI64,OneDrive,AnyDVDtray,googledrivesync,PfuSsMon,pmui,SearchUI,ADvdDiscHlp64,conhost,SnippingTool,VCDDaemon,SsWiaChecker,acrotray,WDAppManager,FNPLicensingService,splwow64,WDSyncService,Calculator,backgroundTaskHost,tas","userId":"9991n","receivedFlag":false,"hashKey":"15663745580769991n","_id":"IU1nBMf0FTmIzV7i"}
+{"timestamp":1558976405607,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15589764056079991n","_id":"IZQQ9Qw4V2MZdO6G"}
+{"timestamp":1555465409773,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15554654097739991n","_id":"IqkP3UZ9njmxApVf"}
+{"timestamp":1559068578842,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15590685788429991n","_id":"IrdcWymqCBVZKJml"}
+{"timestamp":1578341783636,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15783417836369991n","_id":"JHxD6fDjdwKFbw8n"}
+{"timestamp":1561410437940,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15614104379409991n","_id":"Juow4M3znhDezgqV"}
+{"timestamp":1566251507449,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15662515074499991n","_id":"JzFqdYA3aq2Ssnqt"}
+{"timestamp":1541637238541,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15416372385419991n","_id":"K5URbyHJm9IqlCEB"}
+{"timestamp":1578423198636,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15784231986369991n","_id":"KHGb61FTWVCVDQjp"}
+{"timestamp":1537994659000,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15379946590009991n","_id":"KI3r0KNMbeLWlnYc"}
+{"timestamp":1537994714513,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15379947145139991n","_id":"KRoNGkK6MPLaI48W"}
+{"timestamp":1544566500393,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15445665003939991n","_id":"KXZYyr2PI5G9pxMa"}
+{"timestamp":1572890404503,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15728904045039991n","_id":"KjOk7Ibes1dKAwSq"}
+{"timestamp":1579685453223,"page":"Win","eventType":"Sleep Blockers","info":"hService,RtkNGUI64,iTunesHelper,OneDrive,googledrivesync,AnyDVDtray,PfuSsMon,pmui,GoogleCrashHandler,VCDDaemon,iPodService,SsWiaChecker,acrotray,ADvdDiscHlp64,conhost,jusched,WDAppManager,GoogleCrashHandler64,FNPLicensingService,WDSyncService,SgrmBro","userId":"9991n","receivedFlag":false,"hashKey":"15796854532239991n","_id":"KnEGX68wb7Yzhi4I"}
+{"timestamp":1577913371282,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15779133712829991n","_id":"KtMzEctZ5NtpgNYv"}
+{"timestamp":1546279207631,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15462792076319991n","_id":"KvEgN8gxllCYpVa5"}
+{"timestamp":1554745296204,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15547452962049991n","_id":"L5eYUDFNyVjsjnNA"}
+{"timestamp":1558049071521,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15580490715219991n","_id":"LBzwgELmnPQ4wcVD"}
+{"timestamp":1547488810644,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15474888106449991n","_id":"LRbPQKUo23FDIKEJ"}
+{"timestamp":1566840562592,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":false,"hashKey":"15668405625929991n","_id":"LWuWncSD7lVtiLIq"}
+{"timestamp":1570780283525,"page":"Win","eventType":"Sleep Blockers","info":"w,PresentationFontCache,ctfmon,explorer,GoogleCrashHandler64,igfxEM,SgrmBroker,WmiPrvSE,SearchInr,dllhost,RuntimeBroker,ApplicationFrameHost,MicrosoftEdge,SkypeApp,YourPhone,SkypeBackgroundHost,browser_broker,MicrosoftEdgeCP,MicrosoftEdgeSH,SecurityH","userId":"9991n","receivedFlag":false,"hashKey":"15707802835259991n","_id":"Lbz4nZxvPWWiHFAh"}
+{"timestamp":1558526494759,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15585264947599991n","_id":"Lcaz6D1UOHTVW5EQ"}
+{"timestamp":1537994695698,"page":"GUI","eventType":"Sleep Settings","info":"Temp Disable Value: 1 hour","userId":"9991n","receivedFlag":true,"hashKey":"15379946956989991n","_id":"LexuEjdhMFuh1147"}
+{"timestamp":1570469468848,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15704694688489991n","_id":"LynNOKr21NgCjXmD"}
+{"timestamp":1560186000715,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15601860007159991n","_id":"MURes7wtezvqknNw"}
+{"timestamp":1545069604544,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15450696045449991n","_id":"MffcING21JNXzsI7"}
+{"timestamp":1575919547726,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15759195477269991n","_id":"Mqu6KiGx1UU4nKDy"}
+{"timestamp":1565024400303,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15650244003039991n","_id":"MuBUeqzXvM5WLrPQ"}
+{"timestamp":1538413200000,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15384132000009991n","_id":"NFfyzluPllw8pOvF"}
+{"timestamp":1571101152170,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15711011521709991n","_id":"NI77rPcjwc59EX9q"}
+{"timestamp":1569264284862,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15692642848629991n","_id":"NJWp4512yPRe2pHz"}
+{"timestamp":1570776947129,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15707769471299991n","_id":"NNCGYETLpSijGZAr"}
+{"timestamp":1549303205063,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15493032050639991n","_id":"NVDGnbiOxqKzN9DM"}
+{"timestamp":1570780283527,"page":"Win","eventType":"Sleep Blockers","info":",rundll32,g2mupdate,backgroundTaskHost,tasklist","userId":"9991n","receivedFlag":false,"hashKey":"15707802835279991n","_id":"NXY7Deh5UVCm3t37"}
+{"timestamp":1551722405877,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15517224058779991n","_id":"NbJNwEigu1l1qUzI"}
+{"timestamp":1542045597151,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15420455971519991n","_id":"NwNwcj0Wruw5Qzez"}
+{"timestamp":1546884006928,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15468840069289991n","_id":"NxRJK5umIrlfo36y"}
+{"timestamp":1566374558077,"page":"Win","eventType":"Sleep Blockers","info":"klist","userId":"9991n","receivedFlag":false,"hashKey":"15663745580779991n","_id":"O3h8mvZLb2u3LHrQ"}
+{"timestamp":1543533296879,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15435332968799991n","_id":"OIXyUvNkEg0kfyea"}
+{"timestamp":1539622805783,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15396228057839991n","_id":"OhSGSfPVYW0KYfxX"}
+{"timestamp":1571678499466,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15716784994669991n","_id":"OpONlZ4RiEg67kWH"}
+{"timestamp":1543954479639,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15439544796399991n","_id":"Oylf8giKKRhimV86"}
+{"timestamp":1571210417023,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15712104170239991n","_id":"P9tKdwKInsOzbzar"}
+{"timestamp":1545073282844,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15450732828449991n","_id":"PBULT8cuJgvU9F7s"}
+{"timestamp":1539018005492,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15390180054929991n","_id":"PrdPcCGiCrOyCpLF"}
+{"timestamp":1539033217222,"page":"GUI","eventType":"Opening GUI","info":"double-click","userId":"9991n","receivedFlag":true,"hashKey":"15390332172229991n","_id":"PuDcOjOm5Gyjp4Dw"}
+{"timestamp":1567721487391,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677214873919991n","_id":"Pz4glaewwSaw2U9H"}
+{"timestamp":1540227605754,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15402276057549991n","_id":"PzVASv3v705IBHV9"}
+{"timestamp":1577124000968,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15771240009689991n","_id":"QSvhaOZsJVtEiajL"}
+{"timestamp":1549303205686,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15493032056869991n","_id":"RGW8RZ2aHOGqNfnR"}
+{"timestamp":1545069605488,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15450696054889991n","_id":"RXgtFa6krbFG7OSx"}
+{"timestamp":1546754286496,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15467542864969991n","_id":"S05Bv7hj8jpgxvig"}
+{"timestamp":1553551965831,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15535519658319991n","_id":"SHiXeVDf0sBSyB2l"}
+{"timestamp":1555347609389,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15553476093899991n","_id":"SJN3V09d4HtTvMwS"}
+{"timestamp":1560790803945,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15607908039459991n","_id":"SV1nHLMpbPttujSL"}
+{"timestamp":1563814804319,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15638148043199991n","_id":"SfGK3PAgOolrKEft"}
+{"timestamp":1578341783618,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15783417836189991n","_id":"TA5tSr8A44X9d0Eb"}
+{"timestamp":1537994676153,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15379946761539991n","_id":"TEMJxL2ud0ZTUBf0"}
+{"timestamp":1543957620296,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15439576202969991n","_id":"TKQCrvVODi1HA3MD"}
+{"timestamp":1540924067056,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15409240670569991n","_id":"TSRQFolsqkgw5sQG"}
+{"timestamp":1568081017348,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15680810173489991n","_id":"TYXeA9Wnbib0pAfj"}
+{"timestamp":1574100016484,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15741000164849991n","_id":"Td9E6f6X4VFCusgR"}
+{"timestamp":1543957605122,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15439576051229991n","_id":"Tdx5OsMmxi3emJZF"}
+{"timestamp":1579302097762,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15793020977629991n","_id":"TjvySNICntZAufwH"}
+{"timestamp":1557854819455,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15578548194559991n","_id":"Tk2YvsjoIX5dt37V"}
+{"timestamp":1547064912578,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15470649125789991n","_id":"UMoN6XGY1a8Iep4g"}
+{"timestamp":1561090993598,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15610909935989991n","_id":"USAjW0dibVb8Pnxt"}
+{"timestamp":1580762643566,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15807626435669991n","_id":"UYc9MoyBvkfAy77h"}
+{"timestamp":1541451147699,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15414511476999991n","_id":"UxYaE3cwWXcKg9uC"}
+{"timestamp":1550966542010,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15509665420109991n","_id":"Uyx2IW1WwfGTdFwm"}
+{"timestamp":1560289518578,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15602895185789991n","_id":"VSSGL7gv6aOyX2OX"}
+{"timestamp":1540227604718,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15402276047189991n","_id":"VXDV56dVoCl01S80"}
+{"timestamp":1567715232966,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677152329669991n","_id":"VcXo99l8Log282Gv"}
+{"timestamp":1537994622203,"page":"About","eventType":"Opened Page","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15379946222039991n","_id":"VsmpvkDe90lRqyLx"}
+{"timestamp":1552323606108,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15523236061089991n","_id":"W0msM18Csnf4aL8b"}
+{"timestamp":1543260350015,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15432603500159991n","_id":"W2dmunr7bTQrWSml"}
+{"timestamp":1541637179692,"page":"GUI","eventType":"Opening GUI","info":"double-click","userId":"9991n","receivedFlag":true,"hashKey":"15416371796929991n","_id":"W5sGkZK9KXlMgEib"}
+{"timestamp":1561081551890,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15610815518909991n","_id":"WGFMXIaFybYPIifw"}
+{"timestamp":1540923850288,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15409238502889991n","_id":"WRFAhiVUTjKmFOX3"}
+{"timestamp":1542251397401,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15422513974019991n","_id":"WVmzHhHEtuNkgrpT"}
+{"timestamp":1539033268114,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15390332681149991n","_id":"WjUXRDRdAmlO0MAi"}
+{"timestamp":1579685453221,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,winlogon,services,lsass,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,RtkAudioService64,RAVBg64,spoolsv,AERTSr64,IpOverUsbSvc,armsvc,mDNSResponder,WsAppService3,NovabenchService,dasHost,MsMpEng,NisSrv,sihost,taskhostw,ctf","userId":"9991n","receivedFlag":false,"hashKey":"15796854532219991n","_id":"WlauNcxCGNH5jDpf"}
+{"timestamp":1570469616591,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15704696165919991n","_id":"Woka3eXqO1qAbQdS"}
+{"timestamp":1567721483855,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":false,"hashKey":"15677214838559991n","_id":"X62am7r7MZzLR75E"}
+{"timestamp":1538413193229,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15384131932299991n","_id":"XHE0ChAn4qsQzTaU"}
+{"timestamp":1566840559893,"page":"Notif","eventType":"Button Choice","info":"showUsage","userId":"9991n","receivedFlag":false,"hashKey":"15668405598939991n","_id":"XICmB7WE8UNVIy0b"}
+{"timestamp":1565016948652,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15650169486529991n","_id":"XVS7UqO4Hfdh8H5N"}
+{"timestamp":1567721487276,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677214872769991n","_id":"Xkl6DRFhBzq9c2X1"}
+{"timestamp":1539650136598,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15396501365989991n","_id":"XklDZt77FBXHk8Nq"}
+{"timestamp":1576646425589,"page":"Win","eventType":"Sleep Blockers","info":"SecurityHealthSystray,SecurityHealthService,RtkNGUI64,OneDrive,AnyDVDtray,googledrivesync,PfuSsMon,pmui,ADvdDiscHlp64,conhost,VCDDaemon,chrome,SsWiaChecker,acrotray,jusched,WmiPrvSE,WDAppManager,FNPLicensingService,SgrmBroker,WDSyncService,Calculator","userId":"9991n","receivedFlag":false,"hashKey":"15766464255899991n","_id":"Xs1YiFLaO4qDpmOA"}
+{"timestamp":1542650406764,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15426504067649991n","_id":"XwfvUdPrI4q3cW1J"}
+{"timestamp":1566374558074,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,services,winlogon,lsass,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,RtkAudioService64,RAVBg64,spoolsv,mDNSResponder,AERTSr64,IpOverUsbSvc,NovabenchService,armsvc,MsMpEng,dasHost,NisSrv,sihost,PresentationFontCache,taskh","userId":"9991n","receivedFlag":false,"hashKey":"15663745580749991n","_id":"XwoUXc6YuIkRs5H9"}
+{"timestamp":1538413194058,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15384131940589991n","_id":"XzmIDNkuDzfozlC9"}
+{"timestamp":1543612343965,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15436123439659991n","_id":"Y0ACTuYt7VHj3hHJ"}
+{"timestamp":1562000406645,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15620004066459991n","_id":"YAoX47eHFxqvoh2K"}
+{"timestamp":1576525109417,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15765251094179991n","_id":"YKGem85bipR3BkG6"}
+{"timestamp":1580151485990,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15801514859909991n","_id":"YN31hDWM5QLxPzLi"}
+{"timestamp":1561395603185,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15613956031859991n","_id":"YQEouM8QOPxQk3Qe"}
+{"timestamp":1546279207782,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15462792077829991n","_id":"Ye4VApek8LcYlKrz"}
+{"timestamp":1558371604108,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15583716041089991n","_id":"YrMgVK3eUEs8xuYh"}
+{"timestamp":1559931237999,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15599312379999991n","_id":"ZLLG1CPalGYVIQYk"}
+{"timestamp":1568050330686,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15680503306869991n","_id":"Zk5r51HdVLSu3kN9"}
+{"timestamp":1562000410381,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15620004103819991n","_id":"ZsXsyoMaHRyclcNF"}
+{"timestamp":1543533257605,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15435332576059991n","_id":"Ztm7D2WtjZcfFi8S"}
+{"timestamp":1549908007009,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15499080070099991n","_id":"a13SK5dQg1LltIkw"}
+{"timestamp":1549333263680,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15493332636809991n","_id":"aBIp4ZidUylz7BXK"}
+{"timestamp":1551117602412,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15511176024129991n","_id":"ad2LwqGAzRzKjAYP"}
+{"timestamp":1537994642993,"page":"About","eventType":"Closed Page","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15379946429939991n","_id":"aqroAHFjomoHgQ4k"}
+{"timestamp":1582048891080,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15820488910809991n","_id":"bCcfhGRZj6X60JFd"}
+{"timestamp":1576748205770,"page":"Win","eventType":"Sleep Blockers","info":"ce,RtkNGUI64,OneDrive,GoogleCrashHandler,googledrivesync,AnyDVDtray,chrome,GoogleCrashHandler64,PfuSsMon,pmui,SnippingTool,VCDDaemon,WmiPrvSE,ADvdDiscHlp64,conhost,SsWiaChecker,acrotray,WDAppManager,FNPLicensingService,SgrmBroker,splwow64,WDSyncServi","userId":"9991n","receivedFlag":false,"hashKey":"15767482057709991n","_id":"bGWvrOB4txKvVKMU"}
+{"timestamp":1579635276234,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15796352762349991n","_id":"bpGVYSCr8kWJruco"}
+{"timestamp":1559067063148,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15590670631489991n","_id":"buG8osPFHDB25rBx"}
+{"timestamp":1541218022585,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15412180225859991n","_id":"c2rJUuhIJyfB9qMU"}
+{"timestamp":1554742806942,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15547428069429991n","_id":"cNQskuo2Btz1GUCQ"}
+{"timestamp":1579635747740,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15796357477409991n","_id":"cOVYp1vL4Hcr4tK3"}
+{"timestamp":1566840993369,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15668409933699991n","_id":"cQxdyZPN8qxAijWU"}
+{"timestamp":1559931573817,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15599315738179991n","_id":"cameWHVtMuPaOLkX"}
+{"timestamp":1581384619574,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15813846195749991n","_id":"d20lm6jQyjLgtuRd"}
+{"timestamp":1572384412690,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15723844126909991n","_id":"d6wpBdn33pxLECkO"}
+{"timestamp":1543954519138,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15439545191389991n","_id":"dGbiMyBFb0WxsE0W"}
+{"timestamp":1558378670060,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15583786700609991n","_id":"dSQxeK0Nn10aqAtm"}
+{"timestamp":1572890403816,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15728904038169991n","_id":"dTs32x5aEC7qNoF6"}
+{"timestamp":1575485958483,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15754859584839991n","_id":"dgBLg9O5AlGoPUGJ"}
+{"timestamp":1565024521556,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15650245215569991n","_id":"dis0umBzzfXLF0hx"}
+{"timestamp":1560790800742,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15607908007429991n","_id":"dpqJJZn3dgEacMdG"}
+{"timestamp":1547862008266,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15478620082669991n","_id":"drbQZITT2NsUY6po"}
+{"timestamp":1543612388348,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15436123883489991n","_id":"e1rCpNEZ8lBHzEyq"}
+{"timestamp":1552938263196,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15529382631969991n","_id":"eB6HBb8KcFNeA8Qf"}
+{"timestamp":1578938400523,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15789384005239991n","_id":"eBwz4qzdalybLEIN"}
+{"timestamp":1578429578508,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15784295785089991n","_id":"eeeRpT0KLDEQyggZ"}
+{"timestamp":1567715234797,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":false,"hashKey":"15677152347979991n","_id":"egJ8k9WnLTHoVYFk"}
+{"timestamp":1580151464319,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15801514643199991n","_id":"ev5TGJ1wk9nrI0Mw"}
+{"timestamp":1554146543626,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15541465436269991n","_id":"fMblsbfaMLWM8V3y"}
+{"timestamp":1567715223518,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677152235189991n","_id":"fQvc8UZHbZo5ouyT"}
+{"timestamp":1555347606026,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15553476060269991n","_id":"fbfKkcbrAVAShdJA"}
+{"timestamp":1579680112290,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15796801122909991n","_id":"fci50BpowTrExSyp"}
+{"timestamp":1537994598243,"page":"Register","eventType":"PID Registered","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15379945982439991n","_id":"gL3sCYvdftLcYEVP"}
+{"timestamp":1577123999555,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15771239995559991n","_id":"geZtK6gbMUrPWJpr"}
+{"timestamp":1537994659308,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15379946593089991n","_id":"gnka9CclBZssYOzR"}
+{"timestamp":1567714794576,"page":"GUI","eventType":"Opening GUI","info":"double-click","userId":"9991n","receivedFlag":false,"hashKey":"15677147945769991n","_id":"gxP5LoWCehhDh6l6"}
+{"timestamp":1541637251810,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15416372518109991n","_id":"gyMWxhENAH4iWTzA"}
+{"timestamp":1582048718590,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15820487185909991n","_id":"hVi4glLvlLe5yxTi"}
+{"timestamp":1571072471479,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15710724714799991n","_id":"hhp2MXqKO9a6mIkT"}
+{"timestamp":1544566456964,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15445664569649991n","_id":"hkflmAGZCmgdnl85"}
+{"timestamp":1547584748167,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":true,"hashKey":"15475847481679991n","_id":"idWCvKpAz5PK6vQG"}
+{"timestamp":1554742803045,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15547428030459991n","_id":"iyIsWhedJbf5dSzf"}
+{"timestamp":1537994695627,"page":"GUI","eventType":"Sleep Settings","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15379946956279991n","_id":"j80iixZvMwGD0dOz"}
+{"timestamp":1538413200001,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15384132000019991n","_id":"jGs38NDhEglhWPNq"}
+{"timestamp":1556557203341,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15565572033419991n","_id":"jRPDChlOw7PqaeOK"}
+{"timestamp":1539622806819,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15396228068199991n","_id":"jscrSMgd48J3BpVD"}
+{"timestamp":1555358535883,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15553585358839991n","_id":"jwt39xYC5WUAWqhT"}
+{"timestamp":1576646425588,"page":"Win","eventType":"Sleep Blockers","info":"resentationFontCache,igfxEM,RuntimeBroker,SearchInr,ShellExperienceHost,ApplicationFrameHost,MicrosoftEdge,YourPhone,dllhost,SkypeApp,SkypeBackgroundHost,browser_broker,MicrosoftEdgeSH,MicrosoftEdgeCP,GoogleCrashHandler,GoogleCrashHandler64,SearchUI,","userId":"9991n","receivedFlag":false,"hashKey":"15766464255889991n","_id":"jzbFDN2fiUT6G5jJ"}
+{"timestamp":1552928404701,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15529284047019991n","_id":"k9EM2VK4dS6jmKQt"}
+{"timestamp":1548093603236,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15480936032369991n","_id":"kEEj4GmEhXXsfe9O"}
+{"timestamp":1565629201742,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15656292017429991n","_id":"kJ7T2GQIIo5hPnEX"}
+{"timestamp":1541451145140,"page":"Notif","eventType":"Button Choice","info":"showUsage","userId":"9991n","receivedFlag":true,"hashKey":"15414511451409991n","_id":"kb6hEhO5kwVLBMOF"}
+{"timestamp":1558754418910,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15587544189109991n","_id":"kcRka86xp6RYAkm0"}
+{"timestamp":1539033265665,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15390332656659991n","_id":"kfy1LebqImxaUsdJ"}
+{"timestamp":1555952405457,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15559524054579991n","_id":"kjso1CMpQEqyq3Q0"}
+{"timestamp":1562605208464,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15626052084649991n","_id":"kl15Gu7qBYpMsP8r"}
+{"timestamp":1552323605592,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15523236055929991n","_id":"l8dlGezmASV2Z7Zr"}
+{"timestamp":1537994657658,"page":"GUI","eventType":"Opening GUI","info":"right-click menu","userId":"9991n","receivedFlag":true,"hashKey":"15379946576589991n","_id":"lWAzh2o1C43nATig"}
+{"timestamp":1570469437233,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15704694372339991n","_id":"ldmtVhAzP4GPMxO1"}
+{"timestamp":1576646425587,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,services,lsass,winlogon,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,RtkAudioService64,RAVBg64,spoolsv,dasHost,AERTSr64,armsvc,mDNSResponder,IpOverUsbSvc,NovabenchService,MsMpEng,NisSrv,sihost,taskhostw,ctfmon,explorer,P","userId":"9991n","receivedFlag":false,"hashKey":"15766464255879991n","_id":"leO5wFU9eTOwnCC5"}
+{"timestamp":1544464803087,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15444648030879991n","_id":"loWYo4oeUHQUDk9a"}
+{"timestamp":1576525125370,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15765251253709991n","_id":"looEmlxNB78rqiD5"}
+{"timestamp":1566238487791,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15662384877919991n","_id":"lopO8Rc4uHWHFXh2"}
+{"timestamp":1564419604133,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15644196041339991n","_id":"m7lvXsxWQOwzb7II"}
+{"timestamp":1567550877468,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15675508774689991n","_id":"mDvFERsRHVxpMC00"}
+{"timestamp":1579635237089,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15796352370899991n","_id":"mKGHT309Ny5yLNVv"}
+{"timestamp":1566374558075,"page":"Win","eventType":"Sleep Blockers","info":"ostw,ctfmon,explorer,GoogleCrashHandler,igfxEM,GoogleCrashHandler64,SgrmBroker,SearchInr,WmiPrvSE,dllhost,RuntimeBroker,ApplicationFrameHost,MicrosoftEdge,SkypeApp,SkypeBackgroundHost,browser_broker,MicrosoftEdgeSH,MicrosoftEdgeCP,SecurityHealthSystr","userId":"9991n","receivedFlag":false,"hashKey":"15663745580759991n","_id":"mdxcAzlgd6FVXwxJ"}
+{"timestamp":1542169123160,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15421691231609991n","_id":"miczEh2fOJwzTq1e"}
+{"timestamp":1580847683917,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15808476839179991n","_id":"mkPHHo9zHFMMC8gT"}
+{"timestamp":1557854827843,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15578548278439991n","_id":"nFeCkqLtrTE7DpIJ"}
+{"timestamp":1544566454259,"page":"Notif","eventType":"Button Choice","info":"showUsage","userId":"9991n","receivedFlag":true,"hashKey":"15445664542599991n","_id":"nJE6MS31NwQpLXU7"}
+{"timestamp":1568050398294,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15680503982949991n","_id":"nQWi6XHORwUwy2VX"}
+{"timestamp":1569862800823,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15698628008239991n","_id":"nUes21n9Q2lFVbn1"}
+{"timestamp":1541637213087,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15416372130879991n","_id":"nduCVL7EjUn7J6LQ"}
+{"timestamp":1537994633999,"page":"About","eventType":"User GUI Activated","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15379946339999991n","_id":"nmlReboNXqfbz35q"}
+{"timestamp":1571213940384,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,services,lsass,winlogon,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,RtkAudioService64,dasHost,RAVBg64,spoolsv,AERTSr64,NovabenchService,armsvc,mDNSResponder,IpOverUsbSvc,MsMpEng,NisSrv,sihost,taskhostw,ctfmon,explorer,P","userId":"9991n","receivedFlag":false,"hashKey":"15712139403849991n","_id":"o34d2urKKKNAVtz1"}
+{"timestamp":1539034216166,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15390342161669991n","_id":"o7ciObslYofGubJs"}
+{"timestamp":1542045600880,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15420456008809991n","_id":"oBnP3YNM7YoY3o4K"}
+{"timestamp":1543612348438,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15436123484389991n","_id":"oNFnhxMb5WMqHtsH"}
+{"timestamp":1576748205768,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,services,lsass,winlogon,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,RtkAudioService64,RAVBg64,spoolsv,armsvc,mDNSResponder,AERTSr64,IpOverUsbSvc,NovabenchService,dasHost,MsMpEng,sihost,taskhostw,PresentationFontCache,ct","userId":"9991n","receivedFlag":false,"hashKey":"15767482057689991n","_id":"oUNUM0GK2ovF6mkW"}
+{"timestamp":1559583439888,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15595834398889991n","_id":"oZO2ZaQUG5CvRdtT"}
+{"timestamp":1537994649030,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15379946490309991n","_id":"od9pbBjdsq5fbMYJ"}
+{"timestamp":1581444197177,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15814441971779991n","_id":"ohWpTvH36Vtf3FYx"}
+{"timestamp":1558976405951,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15589764059519991n","_id":"ox549WVlIuDWMxrI"}
+{"timestamp":1567715232879,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677152328799991n","_id":"p46sCWkvXE10wyjm"}
+{"timestamp":1548093602986,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15480936029869991n","_id":"pSjb4e6zVwbh92s3"}
+{"timestamp":1543533249733,"page":"GUI","eventType":"Opening GUI","info":"double-click","userId":"9991n","receivedFlag":true,"hashKey":"15435332497339991n","_id":"pyWMJgOZfb5AQGhV"}
+{"timestamp":1552359025107,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15523590251079991n","_id":"qBj9V6sPPsSj9GXK"}
+{"timestamp":1541441624338,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15414416243389991n","_id":"qLqs6n29J6Wu8nYV"}
+{"timestamp":1539033237662,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15390332376629991n","_id":"qP8JBrTFFEbnPjgq"}
+{"timestamp":1556557202669,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15565572026699991n","_id":"qtkbdtmqrOXMaUws"}
+{"timestamp":1563210006760,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15632100067609991n","_id":"rBAIlvoNzoE0M8R0"}
+{"timestamp":1559933272365,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15599332723659991n","_id":"rIy210EuSMcr4Wab"}
+{"timestamp":1558371603155,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15583716031559991n","_id":"s2jadcpxMXZHEK3o"}
+{"timestamp":1543957552005,"page":"Notif","eventType":"Button Choice","info":"showUsage","userId":"9991n","receivedFlag":true,"hashKey":"15439575520059991n","_id":"s2sxeUAbKV8NLRxx"}
+{"timestamp":1576748205771,"page":"Win","eventType":"Sleep Blockers","info":"ce,SkypeApp,Calculator,GoogleUpdate,g2mupdate,tasklist,powercfg","userId":"9991n","receivedFlag":false,"hashKey":"15767482057719991n","_id":"sapeiGxfug5twGcu"}
+{"timestamp":1576742781081,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15767427810819991n","_id":"sdhRfUofx6AlyZHH"}
+{"timestamp":1551732904656,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15517329046569991n","_id":"tKcFmWx5Kxgd7q82"}
+{"timestamp":1567721332386,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":false,"hashKey":"15677213323869991n","_id":"tPxpPUFc56chU6vo"}
+{"timestamp":1562874471330,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15628744713309991n","_id":"tZWbhHQemVN4rH3b"}
+{"timestamp":1541637188174,"page":"GUI","eventType":"Opening GUI","info":"double-click","userId":"9991n","receivedFlag":true,"hashKey":"15416371881749991n","_id":"tjwN49R09wgFh67X"}
+{"timestamp":1539034217842,"page":"GUI","eventType":"Usage Report","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15390342178429991n","_id":"tmKAknDLoqNc1V1z"}
+{"timestamp":1563332582117,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15633325821179991n","_id":"ttcbARo0vBV3qVby"}
+{"timestamp":1563814804647,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15638148046479991n","_id":"u31ZGVfEEy6djSJi"}
+{"timestamp":1569862801044,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15698628010449991n","_id":"u7mcETLODlPfczVW"}
+{"timestamp":1567721487332,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677214873329991n","_id":"uGxOEhFVWv0rbsoN"}
+{"timestamp":1563344539372,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15633445393729991n","_id":"uOqOiQ0kFBFf9Yts"}
+{"timestamp":1567529822278,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15675298222789991n","_id":"uYrtQDIveDPTaElu"}
+{"timestamp":1567714802533,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":false,"hashKey":"15677148025339991n","_id":"vDyLSOqljPdQtI0B"}
+{"timestamp":1539200648699,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15392006486999991n","_id":"vKiSwm0OhtyVoDhh"}
+{"timestamp":1576748205769,"page":"Win","eventType":"Sleep Blockers","info":"fmon,NisSrv,explorer,igfxEM,LockApp,RuntimeBroker,SearchInr,ShellExperienceHost,ApplicationFrameHost,MicrosoftEdge,YourPhone,SkypeBackgroundHost,browser_broker,MicrosoftEdgeCP,MicrosoftEdgeSH,SearchUI,dllhost,SecurityHealthSystray,SecurityHealthServi","userId":"9991n","receivedFlag":false,"hashKey":"15767482057699991n","_id":"vbEmRWYhJR7CneWp"}
+{"timestamp":1556559461126,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15565594611269991n","_id":"vkSsy6cHB0RwFG9t"}
+{"timestamp":1542045596229,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15420455962299991n","_id":"vlQTDm725AHSg2k1"}
+{"timestamp":1555956623028,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15559566230289991n","_id":"vmLx2AOr6j5GJXss"}
+{"timestamp":1541637452199,"page":"GUI","eventType":"Patterns Of State","info":"dropdown day","userId":"9991n","receivedFlag":true,"hashKey":"15416374521999991n","_id":"vyRIRFz527h1yHDD"}
+{"timestamp":1571678468275,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15716784682759991n","_id":"wE4NZ8dtXsrd5Jjl"}
+{"timestamp":1545674408594,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15456744085949991n","_id":"wOHcEM6f1H9IvJur"}
+{"timestamp":1541637474880,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":true,"hashKey":"15416374748809991n","_id":"wYSa3NGGyPFaex62"}
+{"timestamp":1567721708724,"page":"GUI","eventType":"Time Spent Idle","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677217087249991n","_id":"weWbO8LBt8ke2pCE"}
+{"timestamp":1557162007012,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15571620070129991n","_id":"wgxqcv3GGbxr6sZw"}
+{"timestamp":1553058359249,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15530583592499991n","_id":"wrmaHdlwrxhR2PZD"}
+{"timestamp":1544764705126,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15447647051269991n","_id":"wxFf25AHBS1TGKEt"}
+{"timestamp":1548698407229,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15486984072299991n","_id":"xPEFLNvim3EIxf9U"}
+{"timestamp":1549908005196,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15499080051969991n","_id":"xR7vK16MqZGHklsx"}
+{"timestamp":1579685453224,"page":"Win","eventType":"Sleep Blockers","info":"ker,SkypeApp,Calculator,SystemSettings,WmiPrvSE,rundll32,wermgr,tasklist,g2mupdate,backgroundTaskHost","userId":"9991n","receivedFlag":false,"hashKey":"15796854532249991n","_id":"xofqrSkW3fXidg30"}
+{"timestamp":1547488809145,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":true,"hashKey":"15474888091459991n","_id":"xraqC9pLxiRlNSjR"}
+{"timestamp":1567529860345,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15675298603459991n","_id":"xsJgJqkCUoGf1hj2"}
+{"timestamp":1575919420886,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15759194208869991n","_id":"xylYaO9UrTVb4Dyq"}
+{"timestamp":1552462659607,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15524626596079991n","_id":"yXH5dFRtqxX91ztF"}
+{"timestamp":1551117602272,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15511176022729991n","_id":"ydBcyzUjAUtykjT4"}
+{"timestamp":1552928406705,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15529284067059991n","_id":"zJUwDaKDWIEoE5Sx"}
+{"timestamp":1569264249867,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15692642498679991n","_id":"zcggYX9tMOmAhhhR"}
+{"timestamp":1570780283526,"page":"Win","eventType":"Sleep Blockers","info":"ealthSystray,SecurityHealthService,SearchUI,RtkNGUI64,OneDrive,AnyDVDtray,googledrivesync,PfuSsMon,pmui,chrome,SnippingTool,VCDDaemon,SsWiaChecker,acrotray,ADvdDiscHlp64,conhost,WDAppManager,splwow64,FNPLicensingService,WDSyncService,Calculator,VSSVC","userId":"9991n","receivedFlag":false,"hashKey":"15707802835269991n","_id":"zfWPrpTHQd2VI94s"}
+{"timestamp":1567715586807,"page":"GUI","eventType":"Patterns Of State","info":"Visiting Page","userId":"9991n","receivedFlag":false,"hashKey":"15677155868079991n","_id":"zkvnAtO2UBDjTbjB"}
+{"$$indexCreated":{"fieldName":"hashKey","unique":true,"sparse":false}}
+{"timestamp":1582087875265,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15820878752659991n","_id":"Hmji6c3hQGPAdGmE"}
+{"timestamp":1582093138773,"page":"Win","eventType":"Sleep Blockers","info":"smss,csrss,wininit,services,lsass,winlogon,svchost,fontdrvhost,LogonUI,dwm,WUDFHost,igfxCUIService,dasHost,RtkAudioService64,RAVBg64,spoolsv,AERTSr64,mDNSResponder,armsvc,IpOverUsbSvc,NovabenchService,MsMpEng,WsAppService3,NisSrv,sihost,PresentationF","userId":"9991n","receivedFlag":false,"hashKey":"15820931387739991n","_id":"QsJype4yz7ogTG7w"}
+{"timestamp":1582093138774,"page":"Win","eventType":"Sleep Blockers","info":"ontCache,taskhostw,ctfmon,explorer,igfxEM,RuntimeBroker,SearchInr,dllhost,GoogleCrashHandler,ApplicationFrameHost,MicrosoftEdge,YourPhone,SkypeApp,SkypeBackgroundHost,GoogleCrashHandler64,browser_broker,MicrosoftEdgeSH,MicrosoftEdgeCP,SecurityHealthS","userId":"9991n","receivedFlag":false,"hashKey":"15820931387749991n","_id":"FnAmv5fzJpBDWeZ5"}
+{"timestamp":1582093138775,"page":"Win","eventType":"Sleep Blockers","info":"ystray,SecurityHealthService,RtkNGUI64,SearchUI,iTunesHelper,OneDrive,googledrivesync,AnyDVDtray,PfuSsMon,pmui,VCDDaemon,iPodService,SsWiaChecker,acrotray,ADvdDiscHlp64,conhost,jusched,WDAppManager,splwow64,FNPLicensingService,SgrmBroker,WDSyncServic","userId":"9991n","receivedFlag":false,"hashKey":"15820931387759991n","_id":"bqJGmFR4pzjIVe7G"}
+{"timestamp":1582093138776,"page":"Win","eventType":"Sleep Blockers","info":"e,Calculator,g2mupdate,rundll32,tasklist,WmiPrvSE,backgroundTaskHost","userId":"9991n","receivedFlag":false,"hashKey":"15820931387769991n","_id":"z5OOgJJBO5WOkgUm"}
+{"timestamp":1582568683958,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15825686839589991n","_id":"TrwLRVdDucjsRsjb"}
+{"timestamp":1582568719420,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15825687194209991n","_id":"LtGHpqzv0G5m9dhL"}
+{"timestamp":1582835409932,"page":"Notif","eventType":"Button Choice","info":"dismiss","userId":"9991n","receivedFlag":false,"hashKey":"15828354099329991n","_id":"aeQaRuyUpZdbNAsr"}
+{"timestamp":1583174405569,"page":"Notif","eventType":"Showing Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15831744055699991n","_id":"9iQfRyulfAYmNTY4"}
+{"timestamp":1583174436751,"page":"Notif","eventType":"Scheduling Reminder","info":"","userId":"9991n","receivedFlag":false,"hashKey":"15831744367519991n","_id":"mNqPABvfN5U7oPVI"}
